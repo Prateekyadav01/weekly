@@ -1,0 +1,6 @@
+Equipment
+1 Badminton
+2 Court
+3 shuttle
+4 Net
+
